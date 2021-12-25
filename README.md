@@ -1,4 +1,4 @@
-# <center>Olá, sou Adériton Prado, Analista de Sistemas e criador de conteúdo de programação e tecnologia!</center>
+# <div align="center">Olá, sou Adériton Prado, Analista de Sistemas e criador de conteúdo de programação e tecnologia!</div>
 <div align="center">
   <a href="https://github.com/aderitonprado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aderitonprado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
