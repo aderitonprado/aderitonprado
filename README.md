@@ -4,7 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aderitonprado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aderitonprado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+  
+<div align="center">Utilizo as tecnologias</div>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,17 +24,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
------------------------------------------------------------------------
-
-- 👋 Hi, I’m @aderitonprado!
-- 👀 I’m interested in systems development.
-- 🌱 I’m currently learning PHP, Laravel 8 and stack JS.
-- 💞️ I’m for now, just developing my projects
-- 📫 I'm freelance, so if you need anything, get in touch!
-- 📫 How to reach me aderitonpsantana@gmail.com
-
-<!---
-aderitonprado/aderitonprado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
